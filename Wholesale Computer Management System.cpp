@@ -1441,7 +1441,6 @@ string Intro="\n\n\n\n\n\t\t\t\t\t\t%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	"\t\t\t\t\t\t%||%\tA PROJECT BY:\t\t\t\t\t\t%||%\n"
 	"\t\t\t\t\t\t%||%\t\t\t\t\t\t\t\t%||%\n"
 	"\t\t\t\t\t\t%||%\tMuhammad Ahsan  \t\t21-ARID_737\t\t%||%\n"
-	"\t\t\t\t\t\t%||%\tAiza Gul\t\t\t21-ARID_698\t\t%||%\n"
 	"\t\t\t\t\t\t%||%\tHaseeb Ur Rehman\t\t21-ARID_715\t\t%||%\n"
 	"\t\t\t\t\t\t%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n";
 
